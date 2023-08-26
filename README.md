@@ -102,4 +102,4 @@ After this you should have all the files needed to generate the data. Make whate
 ```
 make flow
 ```
-This will generate the data based on your changes. Currently, make does not track dependencies as a result the entire document flow is re-executed !!
+This will generate the data based on your changes. Currently, make does not track dependencies as a result the entire document flow is re-executed !
